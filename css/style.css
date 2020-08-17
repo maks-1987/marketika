@@ -441,7 +441,7 @@ body {
   flex-basis: 370px;
   padding: 60px 45px;
 }
-.section-plans__list-item.active {
+.section-plans__list-item.activeplan {
   background-color: #f6fafd;
 }
 .section-plans__list-item_title {
